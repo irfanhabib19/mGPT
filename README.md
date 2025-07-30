@@ -61,6 +61,6 @@ If your query is related to images, Stability AI will generate an image.
 All prompts & responses are saved in history 📜.
 
 # Application LINK 
--app-armeabi-v7a-release.apk
+-  app-armeabi-v7a-release.apk
 
 
